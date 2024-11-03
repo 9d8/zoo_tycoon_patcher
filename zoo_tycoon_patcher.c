@@ -28,5 +28,5 @@ int main(int argc, char** argv) {
 
     fclose(zoo_exe);
     printf("'%s' successfully patched!\n", zoo_exe_path);
-	return 0;
+    return 0;
 }
