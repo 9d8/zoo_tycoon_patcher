@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
     }
 
     // Seek to offset of the "CD-ROM check" function call handler.
-    fseek(bobo2_exe, 0x422968, SEEK_SET);
+    fseek(bobo2_exe, 0x21D68, SEEK_SET);
 
     // Overwrite the instructions with 2 nop instructions, forcing the check to
     // always succeed.
