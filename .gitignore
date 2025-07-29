@@ -1,3 +1,5 @@
 *.swp
 *.exe
-zoo_tycoon_patcher
+*.exe.patched
+*.exe.unpatched
+build

@@ -1,8 +1,8 @@
-# Zoo Tycoon Patcher
+# Old Game Patches
 
-This program will patch the CD-ROM version of the Zoo Tycoon: Complete Collection to run without the CD-ROM inserted in your computer. To be used on your legitimate copy of the game. It may work on other editions of the game, I just never tried it.
-
-I wrote this program because all of the existing Zoo Tycoon exe patches I could find were closed source and a bit sketchy.
+A collection of patches that I have wrote for old video games. I mostly wrote
+these for fun, education purposes, and because many of the patches I find online
+for these games are closed source and a bit sketchy.
 
 ## Building
 
@@ -14,8 +14,11 @@ make
 
 ## Usage
 
-To use, run the patcher on your `zoo.exe` file.
+See individual patch README's for instructions on how to use.
 
-```
-zoo_tycoon_patcher /path/to/my/zoo.exe
-```
+## List of patches
+
+| Game | Patch | Description |
+|------|-------|-------------|
+| Zoo Tycoon | CD-ROM Patch | Allows Zoo Tycoon to start without the CD-ROM inserted |
+| Bubble Hero 2 | CD-ROM Patch | Allows Bubble Hero 2 to start without the CD-ROM inserted |
